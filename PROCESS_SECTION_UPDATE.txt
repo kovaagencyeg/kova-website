@@ -1,0 +1,9 @@
+Add minimal Lucide icons to the process cards:
+- FileText for Brief
+- Sparkles for Concept
+- Factory for Production
+- Truck for Delivery
+- Target for Execution
+- ShieldCheck for Support
+
+Use monochrome ivory/white icons with low opacity and subtle hover animation.
