@@ -104,7 +104,7 @@ export default function Home() {
      <div className="max-w-3xl animate-fade-in-up">
       <p className="text-sm uppercase tracking-[0.25em] text-accent mb-4">Premium Branding • Events • Merchandise</p>
       <h1 className="text-4xl md:text-6xl lg:text-5xl font-bold mb-8 leading-[0.95] tracking-[-0.03em] max-w-4xl">
-       Professional Event Production
+       Event Production
        <span className="block text-accent font-light italic mt-2">& Corporate Branding Solutions</span>
       </h1>
       <p className="text-lg md:text-xl text-gray-300 mb-8 leading-relaxed font-light">
