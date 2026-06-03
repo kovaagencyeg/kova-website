@@ -129,7 +129,7 @@ export default function Home() {
    <section className="py-14 bg-black text-white border-y border-accent/30 overflow-hidden">
     <div className="container mb-8 flex flex-col md:flex-row md:items-end md:justify-between gap-4">
      <div>
-      <p className="text-sm uppercase tracking-[0.24em] text-accent mb-3">Registered vendor / trusted by</p>
+      <p className="text-sm uppercase tracking-[0.24em] text-accent mb-3">Experience Across Leading Industries</p>
       <h2 className="text-3xl md:text-4xl font-bold">Built for corporate procurement standards</h2>
      </div>
      <p className="text-gray-400 max-w-xl">A premium supplier network for event, exhibition, gifting, printing, packaging, and brand activation requirements.</p>
