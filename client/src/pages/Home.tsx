@@ -121,6 +121,7 @@ export default function Home() {
       <div className="flex flex-col md:flex-row gap-4">
        <a href="/contact" className="btn-primary inline-flex items-center justify-center transition-all duration-300 hover:scale-105">Request a Quote</a>
        <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" className="btn-secondary text-center">Get Pricing in Minutes</a>
+          <a href="/catalogue.pdf" target="_blank" rel="noopener noreferrer" className="btn-secondary text-center">View Catalogue</a>
       </div>
      </div>
     </div>
